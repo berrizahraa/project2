@@ -155,6 +155,7 @@ class _QuizState extends State<Quiz> {
     );
   }
 
+
   _showScoreDialog() {
     bool isPassed = false;
 
